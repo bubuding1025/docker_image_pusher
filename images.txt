@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python
 mysql
+seataio/seata-server:1.7.1
