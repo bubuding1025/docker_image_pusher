@@ -7,3 +7,4 @@ xhofe/alist:latest
 python
 mysql
 seataio/seata-server
+elasticsearch:7.12.1
