@@ -9,3 +9,4 @@ mysql
 seataio/seata-server
 elasticsearch:7.12.1
 mysql:5.7
+redis
